@@ -1,11 +1,3 @@
-Hi! I'm Geetanjali, a data science enthusiast who loves turning messy data into actionable insights. I enjoy building ML models, telling stories with data, and solving real-world problems using statistics, Python, and visualization tools.
-
-🚀 About Me
-📘 B.Tech in Information Technology
-
-💻 Skilled in Python, SQL, Pandas, NumPy, Matplotlib, scikit-learn, Power BI, and Excel
-
-🧩 Passionate about machine learning, data storytelling, and automation
 # 💫 About Me:
 Hi! I'm Geetanjali, a data science enthusiast who loves turning messy data into actionable insights. I enjoy building ML models, telling stories with data, and solving real-world problems using statistics, Python, and visualization tools.<br><br>🚀 About Me<br>📘 B.Tech in Information Technology<br><br>💻 Skilled in Python, SQL, Pandas, NumPy, Matplotlib, scikit-learn, Power BI, and Excel<br><br>🧩 Passionate about machine learning, data storytelling, and automation<br>
 
